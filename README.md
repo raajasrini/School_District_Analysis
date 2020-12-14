@@ -58,10 +58,11 @@
 
 ##  Summary: 
 
-   The school district analysis provides the view of the reading and math scores caluclations and potential impacts replaced with NaN in Thomas high school 9th grade. 
-   * District summary percentage affected in Average Math & Read scores , % passing math & read and overall passing percentage.
+   The school district analysis provides the view of the reading and math scores calculations of the schools and analysis provides the recommendations. 
+   * District summary percentage affected in Average Math & Read scores , % passing math & read and overall passing percentage after replacing with NaN in Thomas high school 9th grade.
    * School Summary view increased in  % passing math & read and overall passing percentage for Thomas high School. This view provides the per school summary view in the scores.
    * Gradewise **Read and Math** average scores depicts the reading scores are good but needs a focus in math score in all the grades.
    * Small & Medium size schools scores good based on the scores by spending.
    * Large schools size needs an improvement in overall passing score though the spending is high in the range of above 585.
    * District schools needs to be focus on improvement when compared to Charter schools.
+   * Overall ,  the above analysis provide insigths of performance trends and patterns to help school district board to take strategic decisons on the budget and performance improvements.
