@@ -14,18 +14,18 @@
   
 ## Results:
 
- ### [School Analysis Result](https://github.com/raajasrini/School_District_analysis/blob/main/analysis/election_analysis.txt) report provides details overivew.
+ #### [School Analysis Result](https://github.com/raajasrini/School_District_analysis/blob/main/analysis/election_analysis.txt) report provides details overivew.
 
 * The district summary has been affected after the change has been implemented in the ninth grade score for Thomas High School. The [snapshot](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/1_sd_NaN-9thGrade.png) provides the 9th grade scores updated to NaN. 
 
   
 * The [district summary](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/2_DistrictSummary.png) view provides the following changes after repalce of 9th grade to NaN for Thomas high school. 
-  * The **Average Math score** is reduced to 78.9 from 79.0
-  * Slight reduction in **% Passing Math** (74.80% from 74.98) and **% Passing Reading** ( to 85.7 from 85.81)
-  * **Overall Passing Percentage** reduced to 64.9 from 65.17.
+  * The **Average Math score** is reduced to 78.9% from 79.0%
+  * Slight reduction in **% Passing Math** (74.80% from 74.98%) and **% Passing Reading** ( to 85.7% from 85.81%)
+  * **Overall Passing Percentage** reduced to 64.9% from 65.17%.
 
   
-* Thomas High School details are below after the replacement of ninth grade score to NaN.
+* [Thomas High School details](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/9.THS-Count-details.png) are below after the replacement of ninth grade score to NaN.
   * Number of 10th-12th graders from Thomas High School (THS) :  1174
   * Number of the passing students from the 10th-12th grade from Thomas High School :  1064
   * All the students passing math from THS :  1094
@@ -33,9 +33,9 @@
   * Number of all the students passing math and reading from THS :  1064
   
 * The [school summary view](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/3.Schools_Summary.png) provides the performance relative to other school after replacing the ninth grader's math and reading scores
-  * The **Average Math score** is increased to 78.9 from 79.0
-  * Scores elevated in **% Passing Math** ( **93.18** from 66.90) and **% Passing Reading** ( to **97.01** from 69.66)
-  * **Overall Passing Percentage** increased to **90.63** from 65.07.
+  * The **Average Math score** is increased to 78.9% from 79.0%
+  * Scores elevated in **% Passing Math** ( **93.18%** from 66.90%) and **% Passing Reading** ( to **97.01%** from 69.66%)
+  * **Overall Passing Percentage** increased to **90.63%** from 65.07%.
   
 * How does replacing the ninth-grade scores affect the following:
 * [Math and reading scores by grade](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/5.Math_Read_Scores%20by%20Grade.png) provides the view of math and reading grades by schools.
@@ -57,10 +57,11 @@
     * District schools needs an improvement and focus on **overall passing score of 58% and % passing in math is 67%**
 
 ##  Summary: 
-   ###
+
    The school district analysis provides the view of the reading and math scores caluclations and potential impacts replaced with NaN in Thomas high school 9th grade. 
-   *
+   * District summary percentage affected in Average Math & Read scores , % passing math & read and overall passing percentage.
+   * School Summary view increased in  % passing math & read and overall passing percentage for Thomas high School. This view provides the per school summary view in the scores.
    * Gradewise **Read and Math** average scores depicts the reading scores are good but needs a focus in math score in all the grades.
-   * Small & Medium size schools scores good based on the scores by spending 
+   * Small & Medium size schools scores good based on the scores by spending.
    * Large schools size needs an improvement in overall passing score though the spending is high in the range of above 585.
-   * District schools needs to be focus on improvement when compared to Charter schools. 
+   * District schools needs to be focus on improvement when compared to Charter schools.
