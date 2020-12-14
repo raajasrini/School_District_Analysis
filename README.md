@@ -14,7 +14,7 @@
   
 ## Results:
 
- #### [School Analysis Result](https://github.com/raajasrini/School_District_analysis/blob/main/analysis/election_analysis.txt) report provides details overivew.
+ #### School Analysis  Results :
 
 * The district summary has been affected after the change has been implemented in the ninth grade score for Thomas High School. The [snapshot](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/1_sd_NaN-9thGrade.png) provides the 9th grade scores updated to NaN. 
 
