@@ -12,9 +12,9 @@
   
   * To provide summary view of school spending , school size and school type.
   
-## Results:
+## Results :
 
- #### School Analysis  Results :
+ #### School Analysis  Results  :
 
 * The district summary has been affected after the change has been implemented in the ninth grade score for Thomas High School. The [snapshot](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/1_sd_NaN-9thGrade.png) provides the 9th grade scores updated to NaN. 
 
@@ -37,7 +37,6 @@
   * Scores elevated in **% Passing Math** ( **93.18%** from 66.90%) and **% Passing Reading** ( to **97.01%** from 69.66%)
   * **Overall Passing Percentage** increased to **90.63%** from 65.07%.
   
-* How does replacing the ninth-grade scores affect the following:
 * [Math and reading scores by grade](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/5.Math_Read_Scores%20by%20Grade.png) provides the view of math and reading grades by schools.
     * Reading scores are in the range of 80 and above for all grades
     * Cabrera , Griffin , Holden , Pena , Shelton , Wilson and Wright high schools are in the above 80% in math scores for all grades.
@@ -49,17 +48,17 @@
     * Two small schools in size has 89% and above overall passing scores.
     
 * [Scores by school size](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/6.Scores%20by%20School%20Size.png)
- *  Small and Medium schools scores 90% and above in ** % Passing in math and reading and Overall Percentage** and average read  & math score are above 83%
- * Large schools %passing math score is 70% and overall passing score is 58% which needs an improvement. 
+    * Small and Medium schools scores 90% and above in ** % Passing in math and reading and Overall Percentage** and average read  & math score are above 83%
+    * Large schools %passing math score is 70% and overall passing score is 58% which needs an improvement. 
  
 * [Scores by school type](https://github.com/raajasrini/School_District_Analysis/blob/main/Resources/8.ScoresbySchoolType.png)
     * Charter schools have good scores above 83% in average math & read and % passing scores of math and read are above 90%. Overall passing score is 90%.
     * District schools needs an improvement and focus on **overall passing score of 58% and % passing in math is 67%**
 
-##  Summary: 
+##  Summary : 
 
    The school district analysis provides the view of the reading and math scores calculations of the schools and analysis provides the recommendations. 
-   * District summary percentage affected in Average Math & Read scores , % passing math & read and overall passing percentage after replacing with NaN in Thomas high school 9th grade.
+   * District summary percentage affected in **Average Math & Read scores , % passing math & read and Overall passing percentage** after replacing with NaN in Thomas high school 9th grade.
    * School Summary view increased in  % passing math & read and overall passing percentage for Thomas high School. This view provides the per school summary view in the scores.
    * Gradewise **Read and Math** average scores depicts the reading scores are good but needs a focus in math score in all the grades.
    * Small & Medium size schools scores good based on the scores by spending.
